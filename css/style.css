@@ -1,0 +1,76 @@
+/*kutular için body üzerinden başla*/
+body {
+    text-align: center;
+    padding: 0 40px;
+    background-color: white;
+}
+
+.container {
+    width: 100%; 
+    background-color: white;
+
+}
+
+/*search box start*/
+.search-box {
+    background-color: whitesmoke;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 2px;
+}
+
+/*footer bar start*/
+
+.box {
+    float:left;
+}
+
+.inner-box {
+    height: 70px;
+    margin-right: 2px;
+    padding-bottom: 4px;
+    padding-top: 5px;    
+} 
+
+.box-last .inner-box {
+        margin-right: 0px;
+}
+
+.box1 {
+    width: 35%;      
+}
+
+.box1-color {
+    background-color: turquoise; 
+}
+
+.box2 {
+    width: 20%;
+}
+
+.box2-color {
+    background-color:mediumturquoise;
+}
+
+.box3 {
+    width: 45%;
+}
+
+.box3-color {
+    background-color: lightseagreen;
+}
+
+.box-fs {
+    font-size: small;
+}
+
+/*footer bar end*/
+
+.clear {
+    clear: both;
+}
+
+.copyright {
+    font-size: small;
+    margin-top: 100px;
+}
